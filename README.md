@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Lab Exercises
 
 Solutions for two Python lab sheets, organized by folder.
@@ -21,3 +22,7 @@ Each file is standalone:
 ```bash
 python3 Lab1-Python-Basics/lab1_basic_program.py
 ```
+=======
+# Python-Programming
+programs i have done
+>>>>>>> 7756b49f831fb7be57953618ad72ee505f6e696d
